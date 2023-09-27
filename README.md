@@ -1,5 +1,4 @@
-Here is the README for the Python project based on the idea "AI Poet":
-```vbnet
+### This was generated using gpt4all model programmers, first release of main god fathers first adapted 2 iteration improment loop.
 Title: AI Poet
 Description: An AI-based tool that generates unique poems based on user input or existing poetry. The program relies solely on web APIs and libraries to function, without requiring any local files on the user's PC. It uses OpenAI GPT as a model for generating creative text.
 
